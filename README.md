@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   <br />
   <img src="https://skillicons.dev/icons?i=bash,docker,nginx,py,mysql,redis,html,css,js,vue,vite,md&theme=light" />
   <br />
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,tauri,bun,c,cpp,cs,rust&theme=light" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,tauri,bun,c,cpp,cs,net,rust&theme=light" />
 </p>
