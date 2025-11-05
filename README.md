@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+<p align="center">
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=raspberrypi,html,css,js,vue,vite,bun,md,docker,py,java,rust,c,cpp,cs&theme=light" />
+</p>
+ 
