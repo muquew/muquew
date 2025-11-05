@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br />
   <img src="https://skillicons.dev/icons?i=bash,docker,nginx,py,mysql,html,css,js,md&theme=light" />
   <br />
-  <img src="https://skillicons.dev/icons?i=redis,vue,vite,md,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=redis,vue,vite,git&theme=light" />
   <br />
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,tauri,bun,c,cpp,cs,net,qt,rust,php&theme=light" />
 </p>
