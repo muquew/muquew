@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=debian,raspberrypi,cloudflare&theme=light" />
   <br />
-  <img src="https://skillicons.dev/icons?i=bash,docker,nginx,py,mysql,html,css,js,md&theme=light" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,nginx,py,html,css,js,md&theme=light" />
   <br />
-  <img src="https://skillicons.dev/icons?i=redis,vue,vite,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,vue,vite,git&theme=light" />
   <br />
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,tauri,bun,c,cpp,cs,net,qt,rust,php&theme=light" />
 </p>
