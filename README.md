@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
  
-<p align="center">
+
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=raspberrypi,html,css,js,vue,vite,bun,md,docker,py,java,rust,c,cpp,cs&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=debian,raspberrypi,cloudflare&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=bash,docker,nginx,py,mysql,redis,html,css,js,vue,vite,md&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,tauri,bun,c,cpp,cs,rust&theme=light" />
 </p>
- 
